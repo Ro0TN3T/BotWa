@@ -38,3 +38,4 @@ global.namebot = 'Ro0T_N3T' //Isi nama Bot mu
 ```bash
 node index.js
 ```
+This is Script of WhatsApp multi device, working with @adiwajshing/baileys
