@@ -39,3 +39,6 @@ global.namebot = 'Ro0T_N3T' //Isi nama Bot mu
 node index.js
 ```
 This is Script of WhatsApp multi device, working with @adiwajshing/baileys
+
+### Tutorial Videos
+[Videos](https://youtu.be/9H4ZArV3chQ?si=saqb05IyC46u1PMv)
