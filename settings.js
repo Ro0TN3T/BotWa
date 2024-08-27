@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.devNumber = ['6282162627474'] //Pake nomor mu
+global.devNumber = ['628xxxxxx'] //Pake nomor mu
 global.name = 'Ro0T_N3T' //Isi nama mu
 global.namebot = 'Ro0T_N3T' //Isi nama Bot mu
 
