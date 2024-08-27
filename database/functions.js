@@ -1,6 +1,6 @@
-// Create by @LaxzzyOffc
-//      https://t.me/FlaxzyReal
-//      Youtube : youtube.com/@LaxzyMods
+// Create by @Ro0T_N3T
+//      https://t.me/Acehcyberteam
+//      Youtube : youtube.com/@rootnet87
 
 const { proto, delay, getContentType, areJidsSameUser, generateWAMessage } = require("@whiskeysockets/baileys")
 const chalk = require('chalk')
